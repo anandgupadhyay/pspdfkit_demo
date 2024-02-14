@@ -1,6 +1,8 @@
 package com.example.pspdfkit_demo.pspdfkit_demo
 
-import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.android.FlutterAppCompatActivity;
 
-class MainActivity: FlutterActivity() {
+class MainActivity: FlutterAppCompatActivity() {
 }
+
+

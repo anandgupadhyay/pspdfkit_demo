@@ -11,7 +11,7 @@ target 'Runner' do
   target 'RunnerTests' do
     inherit! :search_paths
     # Pods for testing
-flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+#flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
 	pod 'PSPDFKit', podspec:'https://my.pspdfkit.com/pspdfkit-ios/latest.podspec'
 	pod 'Instant', podspec: 'https://my.pspdfkit.com/instant/latest.podspec'
 

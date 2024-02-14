@@ -1,0 +1,23 @@
+PODS:
+  - Instant (13.3.0)
+  - PSPDFKit (13.3.0):
+    - PSPDFKit/Core (= 13.3.0)
+  - PSPDFKit/Core (13.3.0)
+
+DEPENDENCIES:
+  - Instant (from `https://my.pspdfkit.com/instant/latest.podspec`)
+  - PSPDFKit (from `https://my.pspdfkit.com/pspdfkit-ios/latest.podspec`)
+
+EXTERNAL SOURCES:
+  Instant:
+    :podspec: https://my.pspdfkit.com/instant/latest.podspec
+  PSPDFKit:
+    :podspec: https://my.pspdfkit.com/pspdfkit-ios/latest.podspec
+
+SPEC CHECKSUMS:
+  Instant: a8f8a8cd72e16bbc9e3b51ebb93bd709593b0877
+  PSPDFKit: 58d8b526c9b48043d13de808733076a88e6334d8
+
+PODFILE CHECKSUM: 6988fa32b57d8c2aa3c9f17fa5827af07c656997
+
+COCOAPODS: 1.13.0
