@@ -14,7 +14,6 @@ target 'Runner' do
 #flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
 	pod 'PSPDFKit', podspec:'https://my.pspdfkit.com/pspdfkit-ios/latest.podspec'
 	pod 'Instant', podspec: 'https://my.pspdfkit.com/instant/latest.podspec'
-
   end
 
 end
